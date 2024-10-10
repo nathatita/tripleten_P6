@@ -6,3 +6,5 @@ La aplicacion esta construida en python y siguiendo lo aprendido sobre desarroll
 
 Opinion personal del sprint: Este Sprint me parecio mas complicado que los anteriores ya que estoy cero familiarizada con el desarrollo web, estoy mas familiarizada con el analisis de datos, sin embargo, considero importante aprender sobre las herramientas mas comunes que puedan facilitar el trabajo como analista.
 Queda mucho por aprender!
+
+link: https://tripleten-proyecto-sprint6.onrender.com
